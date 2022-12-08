@@ -1,0 +1,32 @@
+body{
+    padding-bottom: 70px;
+}
+header{
+    background-color: rgb(172, 165, 165);
+    text-align: center;
+}
+.row .cabecalho{
+    background-color: rgb(241, 234, 234);
+    text-align: center;
+}
+.row .cabecalho h2{
+    font-size: 1em;
+}
+.row .conteudo{
+    border-bottom: 2px rgb(241, 234, 234) solid;
+    text-align: center;
+}
+.row .conteudo p{
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: rgb(193, 243, 101);
+}
+footer{
+    background-color: rgb(172, 165, 165);
+    text-align: center;
+}
